@@ -1,2 +1,2 @@
 # EDA_Proyect
-Basic analysis od EDA 
+Basic analysis of EDA 
