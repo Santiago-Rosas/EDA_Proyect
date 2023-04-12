@@ -1,2 +1,5 @@
 # EDA_Proyect
-Basic analysis of EDA 
+Basic workflow for EDA  analysis 
+
+
+
