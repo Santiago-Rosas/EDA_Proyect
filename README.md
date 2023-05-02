@@ -5,7 +5,7 @@ Basic workflow for EDA  analysis:
 - Statistical summary
 - Visualization with matplotlib and seaborn
 - Probability density function (PDF) and  cumulative distribution function (CDF)
-- Correlation matrix between dieferent variables 
+- Correlation matrix between different variables 
 - Regresion Models with statsmodels
 
 
